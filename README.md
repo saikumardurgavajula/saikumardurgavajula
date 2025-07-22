@@ -3,7 +3,7 @@
   <h1>
     Hi there, I'm D Sai Kumar 👋
   </h1>
-  font=Fira+Code&weight=600&size=25&pause=1000&color=3396FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Deep+Learning+Practitioner;MLOps+Enthusiast;Data+Scientist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3396FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Deep+Learning+Practitioner;MLOps+Enthusiast;Data+Scientist" alt="Typing SVG" /></a>
 </div>
 
 ## 🚀 About Me
