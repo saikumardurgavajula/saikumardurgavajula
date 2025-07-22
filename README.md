@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hDx80flg7wb/giphy.gif" width="100"/>
+  
   <h1>
     Hi there, I'm D Sai Kumar 👋
   </h1>
