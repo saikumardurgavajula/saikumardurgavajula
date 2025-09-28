@@ -50,7 +50,7 @@ I'm an undergraduate in **Electrical & Electronics Engineering** with a passion 
 
 * **Bachelor of Technology, Electrical & Electronics Engineering**
     * *GMR Institute of Technology, Rajam* | Aug 2022 – Present
-    * Cumulative GPA: **9.03/10**
+    * Cumulative GPA: **9.06/10**
 
 ---
 
